@@ -37,13 +37,7 @@ using AI-powered prompt engineering.
 * Framer Motion
 * shadcn/ui
 * Lovable AI
-
 ---
-
-## 🎯 Future Interns Task 2
-
-This project was created as part of the Future Interns Prompt Engineering Internship Program.
-
 ---
 
 ## 📷 Screenshots
