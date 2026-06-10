@@ -40,18 +40,3 @@ using AI-powered prompt engineering.
 ---
 ---
 
-## 📷 Screenshots
-
-Add project screenshots here.
-
----
-
-## 🚀 Live Demo
-
-Add deployment link here.
-
----
-
-## 👨‍💻 Author
-
-Srinu0910
